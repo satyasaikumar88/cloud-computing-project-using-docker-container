@@ -108,7 +108,3 @@ curl -X POST http://localhost:5000/predict \
    - Containerize with Docker
    - Set up CI/CD pipeline
    - Deploy to cloud platform (AWS/GCP/Azure)
-
-## License
-
-This project is licensed under the MIT License.
